@@ -28,6 +28,7 @@ public class ChatBot {
         professions.put("QA", 35000);
         professions.put("cashier", 13000);
         professions.put("teacher", 10000);
+        professions.put("office_worker", 15000);
 
     }
 
@@ -40,6 +41,7 @@ public class ChatBot {
         dreams.put("house", 2000000);
         dreams.put("bike", 600000 );
         dreams.put("helicopter-helicopter", 9999999);
+        dreams.put("wooburn", 24000);
     }
     
     public static String process(String message) {
